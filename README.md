@@ -8,9 +8,15 @@ A collection of LeetCode solutions focused on mastering Data Structures and Algo
 [![Leetcode Stats](https://leetcard.jacoblin.cool/svaleela-advait)](https://leetcode.com/svaleela-advait)   
 
 ## 📂 Folder Structure
-- `Arrays/`: Two Pointers, Sliding Window, Prefix Sum.
-- `Trees/`: DFS, BFS, Binary Search Trees.
-- `Graphs/`: Dijkstra, Union Find, Topological Sort.
+- `Arrays/`
+- `Strings/`
+- `hashmaps/`
+- `Binary Search/`
+- `Stacks & Queues/`
+- `Linked Lists/`
+- `Trees/`
+- `Graphs/`
+- `Dynamic Programming/`
 
 ## 🛠️ How I Approach Problems
 1. **Understand:** Read constraints and edge cases.
