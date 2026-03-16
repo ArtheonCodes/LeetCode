@@ -2,6 +2,8 @@
 
 A collection of LeetCode solutions focused on mastering Data Structures and Algorithms.
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ## 📊 Statistics
 [![Leetcode Stats](https://leetcard.jacoblin.cool/svaleela-advait)](https://leetcode.com/svaleela-advait)   
 
