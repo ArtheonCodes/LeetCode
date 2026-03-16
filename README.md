@@ -3,7 +3,7 @@
 A collection of LeetCode solutions focused on mastering Data Structures and Algorithms.
 
 ## 📊 Statistics
-[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=svaleela-advait&theme=dark)](https://leetcode.com/svaleela-advait/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/svaleela-advait)](https://leetcode.com/svaleela-advait)   
 
 ## 📂 Folder Structure
 - `Arrays/`: Two Pointers, Sliding Window, Prefix Sum.
