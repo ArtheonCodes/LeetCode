@@ -11,6 +11,7 @@ A collection of LeetCode solutions focused on mastering Data Structures and Algo
 - `Arrays/`
 - `Strings/`
 - `hashmaps/`
+- `Two Pointers/`
 - `Binary Search/`
 - `Stacks & Queues/`
 - `Linked Lists/`
